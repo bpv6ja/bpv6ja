@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @bpv6ja
+- 👀 I’m interested in ...
+  Learning to code and improving my understanding of Python.
+- 🌱 I’m currently learning ...
+  Python
+- 💞️ I’m looking to collaborate on ...
+  N/A
+- 📫 How to reach me ...
+  brandon@savethemachine.org
+<!---
+bpv6ja/bpv6ja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
